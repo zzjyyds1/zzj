@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\通讯录\Project6\源.cpp(81): warning C4715: “ex”: 不是所有的控件路径都返回值
+  Project6.vcxproj -> C:\通讯录\x64\Debug\Project6.exe
